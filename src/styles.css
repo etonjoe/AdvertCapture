@@ -1,0 +1,36 @@
+body {
+  font-family: sans-serif;
+  padding: 1rem;
+  background: #f4f4f4;
+}
+.app-container {
+  max-width: 800px;
+  margin: auto;
+  background: white;
+  padding: 1rem;
+  border-radius: 8px;
+}
+video, img {
+  max-width: 100%;
+  margin-bottom: 1rem;
+}
+textarea {
+  width: 100%;
+  padding: 0.5em;
+  margin: 0.5em 0;
+}
+.emoji {
+  cursor: pointer;
+  margin-right: 0.5em;
+  font-size: 1.25em;
+}
+.submission {
+  border: 1px solid #ccc;
+  padding: 1em;
+  margin-top: 1rem;
+  border-radius: 8px;
+  background: #fafafa;
+}
+.comment {
+  margin: 0.3em 0;
+}
